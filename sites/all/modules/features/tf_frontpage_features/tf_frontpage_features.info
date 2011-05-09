@@ -1,0 +1,8 @@
+core = "7.x"
+dependencies[] = "context"
+description = "description of fronpage features"
+features[context][] = "testContext"
+features[ctools][] = "context:context:3"
+name = "tf frontpage features"
+package = "Features"
+php = "5.2.4"

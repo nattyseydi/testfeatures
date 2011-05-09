@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the tf ct testcontent features  feature.
+ */
+
+include_once('tf_ct_testcontent_features_.features.inc');
